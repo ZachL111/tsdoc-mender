@@ -1,0 +1,17 @@
+{
+  "repo": "tsdoc-mender",
+  "thresholds": {
+    "signal": 3,
+    "slack": 2,
+    "confidence": 2,
+    "drag": 5,
+    "ship": 202,
+    "watch": 106
+  },
+  "terms": [
+    "change width",
+    "diagnostic quality",
+    "review cost",
+    "safe rewrite"
+  ]
+}
